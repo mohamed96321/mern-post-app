@@ -2,7 +2,7 @@
   position: fixed;
   width: 90%;
   left: 5%;
-  top: 20vh;
+  top: 14vh;
   background: white;
   border-radius: 5px;
   z-index: 200;
@@ -10,12 +10,12 @@
 }
 
 .modal__header {
-  border-bottom: 2px solid #3b0062;
+  border-bottom: 2px solid #082e48;
 }
 
 .modal__header h1 {
   font-size: 1.5rem;
-  color: #3b0062;
+  color: #082e48;
   margin: 1rem;
 }
 

@@ -1,7 +1,7 @@
 .button {
   font: inherit;
-  border: 1px solid #3b0062;
-  color: #3b0062;
+  border: 1px solid #082e48;
+  color: #082e48;
   background: none;
   padding: 0.5rem 1rem;
   cursor: pointer;
@@ -30,7 +30,7 @@
 
 .button:hover,
 .button:active {
-  background: #3b0062;
+  background: #082e48;
   color: white;
 }
 
@@ -40,73 +40,73 @@
 
 .button--flat:hover,
 .button--flat:active {
-  background: rgba(59, 0, 98, 0.3);
-  color: #3b0062;
+  background: rgba(50, 124, 181, 0.57);
+  color: #082e48;
 }
 
 .button--raised {
-  background: #3b0062;
+  background: #082e48;
   color: white;
   box-shadow: 0 1px 8px rgba(0, 0, 0, 0.26);
 }
 
 .button--raised:hover,
 .button--raised:active {
-  background: #520288;
+  background: #174e73;
 }
 
 .button.button--accent {
-  border-color: #fab83f;
-  color: #fab83f;
+  border-color: #0084FF;
+  color: #0084FF;
 }
 
 .button--accent:hover,
 .button--accent:active {
-  background: #fab83f;
-  color: #3b0062;
+  background: #0084FF;
+  color: #fffffF;
 }
 
 .button--flat.button--accent:hover,
 .button--flat.button--accent:active {
-  background: rgba(250, 184, 63, 0.3);
-  color: #fab83f;
+  background: #0084FF;
+  color: #FFFFFF;
 }
 
 .button.button--accent.button--raised {
-  background: #fab83f;
-  color: #3b0062;
+  background: #0084FF;
+  color: #FFFFFF;
 }
 
 .button--raised.button--accent:hover,
 .button--raised.button--accent:active {
-  background: #fbc766;
+  background: #082e48;
 }
 
 .button.button--danger {
-  border-color: #a30000;
-  color: #a30000;
+  border-color: #dd2222;
+  color: #dd2222;
 }
 
 .button--danger:hover,
 .button--danger:active {
-  background: #a30000;
+  background: #dd2222;
   color: white;
 }
 
 .button--flat.button--danger:hover,
 .button--flat.button--danger:active {
-  background: rgba(163, 0, 0, 0.3);
-  color: #a30000;
+  background: rgb(248, 102, 102);
+  color: #dd2222;
 }
 
 .button.button--danger.button--raised {
-  background: #a30000;
+  background: #dd2222;
   color: white;
 }
 
 .button--raised.button--danger:hover,
 .button--raised.button--danger:active {
-  background: #c00000;
+  background: #dd2222;
 }
 
 .button.button--success {

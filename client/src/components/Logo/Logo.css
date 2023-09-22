@@ -1,7 +1,9 @@
 .logo {
     font-size: 1rem;
     font-weight: bold;
-    border: 1px solid white;
     padding: 0.5rem;
     color: white;
+}
+a.active {
+    text-decoration: none;
 }
