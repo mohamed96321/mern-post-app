@@ -9,6 +9,10 @@
   flex: 1;
 }
 
+.main-nav__logo a {
+  text-decoration: none;
+}
+
 .main-nav__items {
   list-style: none;
   padding: 0;

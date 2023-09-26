@@ -1,2 +1,2 @@
-# mern-post-app
-Simple Post App with nodejs, reactjs, expressjs, and mongodb
+# mern-share-places-app
+Sharing places app with nodejs, expressjs, reactjs, and mongodb

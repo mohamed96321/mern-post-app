@@ -1,9 +1,6 @@
 .logo {
-    font-size: 1rem;
+    font-size: 1.6rem;
     font-weight: bold;
     padding: 0.5rem;
     color: white;
-}
-a.active {
-    text-decoration: none;
 }
