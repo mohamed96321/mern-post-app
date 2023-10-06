@@ -5,7 +5,6 @@ import Button from '../Button/Button';
 import './Modal.css';
 
 const modal = props =>
-
   ReactDOM.createPortal(
     <div className="modal">
       <header className="modal__header">
